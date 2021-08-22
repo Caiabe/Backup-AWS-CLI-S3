@@ -1,4 +1,4 @@
-# Backup-AWS-CLI-S3
+# Backup AWS CLI S3
 ● Configurar Bucket para receber Backup do SQL (Copiar ARN)
 
 ● Criar política e regra EC2, com acesso ao bucket
